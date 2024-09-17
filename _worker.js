@@ -1,5 +1,5 @@
 /**
-* @ts-nocheck   <!--GAMFC-->version base on commit 43fad05dcdae3b723c53c226f8181fc5bd47223e, time is 2023-06-22 15:20:02 UTC<!--GAMFC-END-->.
+* @s-nocheck   <!--GAMFC-->version base on commit 43fad05dcdae3b723c53c226f8181fc5bd47223e, time is 2023-06-22 15:20:02 UTC<!--GAMFC-END-->.
 * Last Update: 4:20 UTC - Monday, 19 August 2024, By @Sahar-KM
 * Many thanks to github.com/bia-pain-bache
 */
